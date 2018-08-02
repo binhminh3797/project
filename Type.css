@@ -1,0 +1,215 @@
+/* DIV 1*/
+
+#MN{
+    background-color: black;
+}
+#menu li{
+    display: inline;
+    margin: 30px;
+    padding: 20px 10px 20px 10px;
+    line-height: 60px;
+    position: relative;
+    left: 250px;
+    font-weight: 600;
+}
+#menu li:hover{
+    background: red;
+}
+#menu li>a{
+    text-decoration: none;
+    color: white;
+}
+/*Div 2*/
+#d2 img{
+    position: relative;
+    left: 480px;
+}
+#d2 p{
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Div 3 */
+#d3 ul li{
+    display: inline;
+    margin: 30px;
+    padding: 20px 10px 20px 10px;
+    line-height: 60px;
+    color: floralwhite;
+}
+#d3 form textarea{
+    
+    float: right;
+    position: relative;
+    bottom: 67px;
+    right: 50px;
+    padding: 13px;
+    border-radius: 20px;
+    font-weight: 100;
+}
+#d3{
+    background-color: blue;
+}
+/*Div 4*/
+#d4 h1{
+    font-weight: bold;
+    font-size: 30px;
+}
+#d4 h1 span{
+    color: red;
+}
+#tg{
+    font-style: italic;
+}
+#d4{
+    width: 860px;
+    display: inline-block;
+    position: relative;
+    bottom: 230px;
+}
+/* Div 41*/
+#d4 img{
+    float: left;
+    width: 180px;
+    height: 180px;
+}
+
+#p1,#p2{
+    font-style: italic;
+    
+}
+.p1{
+    
+    margin-left: 220px;
+    width: 620px;
+}
+#p2 a{
+    color: skyblue;
+    text-decoration: none;
+}
+#p2{
+    text-align: right;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+#p2::after{
+    text-align: right;
+    content: "";
+    display: block;
+    clear: both;
+   }
+#d4{
+   
+    padding: 0px 0px 0px 20px;
+    width: 860px;
+    font-size: 18px;
+}
+/* Div 42*/
+#s1{
+    font-style: italic;
+    font-weight: bold;
+}
+#s2{
+    color: red;
+    font-weight: bold;
+}
+.s3{
+    color: blue;
+    font-weight: bold;
+}
+#d42 {
+    border-style: dashed;
+    border-color: skyblue;
+    background-color: aliceblue ;
+    padding: 15px 10px 15px 10px;
+}
+/*Div 43*/
+#d43,#d44{
+    margin: 30px 0px 30px 0px;
+}
+#d4 h2{
+    font-size: 25px;
+    color: blue;
+}
+#d43 img{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.n1{
+    font-style: italic;
+}
+.n2{
+    font-weight: bold;
+    color: deepskyblue;
+}
+.n3{
+    font-weight: bold;
+    
+}
+#d43 p::after{
+    content: "";
+    display: block;
+    clear: both;
+    text-align: right; 
+}
+
+/*Div 44*/
+#d44 p::after{
+    content: "";
+    display: block;
+    clear: both;
+    text-align: right; 
+}
+.n4{
+    color: red;
+}
+/*Div 45*/
+#d45 p::after{
+    content: "";
+    display: block;
+    clear: both;
+    text-align: right; 
+}
+/*Div 46*/
+#d46 p::after{
+    content: "";
+    display: block;
+    clear: both;
+    text-align: right; 
+}
+/*Div 47*/
+#d47 p::after{
+    content: "";
+    display: block;
+    clear: both;
+    text-align: right; 
+}
+.p5{
+    color: red;
+    font-weight: bold;
+}
+/*Div 48*/
+#d48 ol
+{
+    color: blue;
+}
+
+
+/*Div 5*/
+#d5 ul>p
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+#d5 ul li>a
+{
+    text-decoration: none;
+}
+#d5
+{   
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    left: 1000px;
+}
